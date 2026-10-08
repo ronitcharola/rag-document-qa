@@ -1,0 +1,113 @@
+ACME Corporation — Employee Handbook
+=====================================
+Version 3.2 | Effective Date: January 1, 2024
+
+SECTION 1: INTRODUCTION
+------------------------
+Welcome to ACME Corporation. This handbook outlines the policies, benefits,
+and expectations for all full-time employees. Please read this document
+carefully and retain it for future reference.
+
+SECTION 2: LEAVE POLICY
+------------------------
+
+2.1 Annual Leave
+Annual leave is a paid benefit provided to all permanent employees.
+
+- All full-time employees are entitled to 24 annual leave days per calendar year.
+- Annual leave is accrued at the rate of 2 days per month.
+- Unused annual leave may be carried forward to the next calendar year,
+  subject to a maximum carry-forward of 10 days.
+- Annual leave must be requested at least 3 days in advance using the HR Portal.
+  Requests submitted less than 3 days before the intended leave date may be denied
+  unless exceptional circumstances apply.
+- Leave requests are subject to manager approval and business requirements.
+- Employees who resign or are terminated will receive a payout for any unused
+  accrued annual leave at their final salary rate.
+
+2.2 Sick Leave
+ACME Corporation provides paid sick leave to support employees during illness.
+
+- All full-time employees are entitled to 12 sick leave days per calendar year.
+- Sick leave does not carry forward to the next year; unused sick leave is forfeited.
+- For absences of 3 or more consecutive days, a medical certificate from a
+  registered medical practitioner is required.
+- Sick leave should be reported to your manager before 9:00 AM on the day of absence.
+- Sick leave may not be taken immediately before or after annual leave without a
+  valid medical certificate.
+
+2.3 Public Holidays
+Employees are entitled to all gazetted public holidays in their country of employment.
+If an employee is required to work on a public holiday, they will receive 1.5x their
+daily rate as compensation or a substitute day off, at the company's discretion.
+
+2.4 Unpaid Leave
+Employees may apply for unpaid leave after exhausting all accrued annual leave.
+Unpaid leave is subject to manager and HR Director approval. A maximum of 30
+consecutive calendar days of unpaid leave is permitted without affecting employment
+continuity.
+
+SECTION 3: CODE OF CONDUCT
+---------------------------
+
+3.1 Workplace Behaviour
+All employees are expected to conduct themselves professionally and respectfully
+at all times. Harassment, discrimination, or bullying of any kind will not be
+tolerated and may result in disciplinary action up to and including termination.
+
+3.2 Dress Code
+Business casual attire is required in the office. Client-facing roles may require
+formal business dress on specific occasions. Casual Fridays are permitted as long
+as clothing remains appropriate for a professional environment.
+
+3.3 Confidentiality
+Employees must not disclose proprietary company information, trade secrets, or
+client data to any unauthorised party during or after their employment. Violation
+of this policy may result in legal action.
+
+SECTION 4: PERFORMANCE MANAGEMENT
+-----------------------------------
+
+4.1 Performance Reviews
+Performance reviews are conducted annually in December. Employees and managers
+set Objectives and Key Results (OKRs) at the start of each quarter. Underperformance
+triggers a Performance Improvement Plan (PIP) with a 90-day review period.
+
+4.2 Promotions
+Promotions are merit-based and subject to available budget. Employees must have
+completed at least 12 months in their current role to be eligible for promotion
+consideration.
+
+SECTION 5: BENEFITS
+--------------------
+
+5.1 Health Insurance
+The company provides group health insurance through TrustLife Insurance.
+Details of coverage, limits, and claim procedures are available in the
+Insurance Policy Document provided separately.
+
+5.2 Provident Fund
+The company contributes 12% of the employee's basic salary to the Provident Fund
+(PF) in accordance with applicable regulations.
+
+5.3 Employee Assistance Programme (EAP)
+ACME offers a confidential Employee Assistance Programme that provides counselling,
+legal advice, and financial guidance. Contact HR for access details.
+
+SECTION 6: GRIEVANCE PROCEDURE
+--------------------------------
+Employees who wish to raise a grievance should first attempt to resolve the matter
+with their immediate manager. If unresolved, a formal grievance may be submitted
+in writing to HR within 5 working days of the incident.
+
+SECTION 7: TERMINATION POLICY
+-------------------------------
+Either party may terminate employment by providing notice as follows:
+- During probation (first 3 months): 1 week's notice.
+- After probation up to 2 years' service: 1 month's notice.
+- After 2 years' service: 3 months' notice.
+
+Payment in lieu of notice may be made at the company's discretion.
+
+---
+For questions about this handbook, contact HR at hr@acmecorp.example.com
